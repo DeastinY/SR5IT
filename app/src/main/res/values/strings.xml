@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name_long">SR 5 Initiative Tracker</string>
+    <string name="app_name">SR 5 IT</string>
+    <string name="action_settings">Settings</string>
+    <string name="turn_twice">That player already had his turn !</string>
+    <string name="turn_done">Turn done !</string>
+</resources>
